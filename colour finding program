@@ -1,0 +1,8 @@
+# a small program to find colours
+# when i start it, the screen goes completely dark
+# with s,d and f keys, i increase Red, Green and Blue values for the screen colour, which changes in real time
+# with x,c and v keys, i decrease their values
+# values are displayed in the center of the screen in the complementary colour to that of the screen, in order to never be invisible
+# when i find a colour i like, i press tab, a name for the colour i have selected and tab again to finish
+# and the RGB values, along with the name of the colour are stored in this file on github
+# enter to exit the program

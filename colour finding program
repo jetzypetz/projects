@@ -6,3 +6,4 @@
 # when i find a colour i like, i press tab, a name for the colour i have selected and tab again to finish
 # and the RGB values, along with the name of the colour are stored in this file on github
 # enter to exit the program
+# stack overflow on how to have updatable images https://stackoverflow.com/questions/42719095/how-to-show-an-image-with-pillow-and-update-it
